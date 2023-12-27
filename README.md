@@ -3,6 +3,9 @@
 
   <p align="left"> 
    🧃 Olá, meu nome é Leonardo Vieira e sou novo nessa área, espero aprender muito ainda e me tornar um programador <strong>FullStack</strong>.
+
+    
+      Hello, my name is Leonardo Vieira and I'm new to this area, I hope to learn a lot and become a <s>FullStack</s> programmer.
   </p>
 </div>
 
