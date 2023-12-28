@@ -1,17 +1,27 @@
-<div>
-  <img align="right" style="float: right" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="Ilustração programador" width="400px" height="400px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=140&section=header"/>
 
-  <p align="left"> 
-   🧃 Olá, meu nome é Leonardo Vieira e sou novo nessa área, espero aprender muito ainda e me tornar um programador <strong>FullStack</strong>.
-  </p>
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
+  
+🌪️ Hello, my name is Leonardo Vieira and I'm new to this area, I hope to learn a lot yet and become a **FullStack** programmer.
+
 </div>
 
-<p align="left">
-  👨‍💻 Linguagens:
-</p>
+🌑 Skills:
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,&theme=dark)
+
+🎧 Studying:
+
+![Studying](https://skills.thijs.gg/icons?i=react,nodejs&theme=dark)
+
+🌫️ GitHub Stats:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leleeeo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="leleo github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleeeo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+</div>
 
 
-<p align="left">
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=120&section=footer"/>
 
