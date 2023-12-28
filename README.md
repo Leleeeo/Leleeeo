@@ -4,9 +4,12 @@
 
 <img align="right" width="200" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
   
-🌪️ Hello, my name is Leonardo Vieira and I'm new to this area, I hope to learn a lot yet and become a **FullStack** programmer.
+🌪️ Hello, my name is Leonardo Vieira and I'm new to this area, <br> 
+I hope to learn a lot yet and become a **FullStack** programmer.
 
 </div>
+
+<br>
 
 🌑 Skills:
 
