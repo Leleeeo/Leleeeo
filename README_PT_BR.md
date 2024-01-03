@@ -10,11 +10,11 @@
 
 🌑 Habilidades:
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)
 
 🎧 Estudando:
 
-![Studying](https://skills.thijs.gg/icons?i=react,nodejs,js&theme=dark)
+![Studying](https://skills.thijs.gg/icons?i=react,nodejs,&theme=dark)
 
 🌫️ Status GitHub:
 <div align="center">  
