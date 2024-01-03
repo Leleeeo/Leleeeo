@@ -14,7 +14,7 @@
 
 🎧 Estudando:
 
-![Studying](https://skills.thijs.gg/icons?i=react,nodejs,&theme=dark)
+![Studying](https://skills.thijs.gg/icons?i=react,&theme=dark)
 
 🌫️ Status GitHub:
 <div align="center">  
