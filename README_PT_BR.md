@@ -12,6 +12,10 @@
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css&theme=dark)
 
+🍳 Frameworks:
+
+![Frameworks](https://skills.thijs.gg/icons?i=vite&theme=dark)
+
 🎧 Estudando:
 
 ![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss&theme=dark)
