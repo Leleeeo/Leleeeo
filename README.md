@@ -21,7 +21,7 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 🎧 Studying:
 
-![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss&theme=dark)
+![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
 
 🌫️ GitHub Stats:
 <div align="center">  
