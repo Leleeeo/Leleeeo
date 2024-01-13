@@ -14,7 +14,7 @@
 
 🍳 Frameworks:
 
-![Frameworks](https://skills.thijs.gg/icons?i=vite&theme=dark)
+![Frameworks](https://skills.thijs.gg/icons?i=vite,nodejs&theme=dark)
 
 🎧 Estudando:
 
