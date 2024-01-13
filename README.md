@@ -23,6 +23,11 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 ![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
 
+🔨 Tools:
+
+![Tools](https://img.shields.io/badge/-VsCode-24adf3?style=for-the-badge&logo=visualstudiocode&labelColor=000000&textColor=00000)&nbsp; 
+![Tools](https://img.shields.io/badge/-Figma-e6593e?style=for-the-badge&logo=Figma&labelColor=000000&textColor=00000)&nbsp;
+
 🌫️ GitHub Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leleeeo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="leleo github stats" /> 
