@@ -10,7 +10,7 @@
 
 🌑 Habilidades:
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs&theme=dark)
+![Habilidades](https://skills.thijs.gg/icons?i=html,css,nodejs&theme=dark)
 
 🍳 Frameworks:
 
@@ -18,7 +18,12 @@
 
 🎧 Estudando:
 
-![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
+![Estudando](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
+
+🔨 Ferramentas:
+
+![Ferramentas](https://img.shields.io/badge/-VsCode-24adf3?style=for-the-badge&logo=visualstudiocode&labelColor=000000&textColor=00000)&nbsp; 
+![Ferramentas](https://img.shields.io/badge/-Figma-e6593e?style=for-the-badge&logo=Figma&labelColor=000000&textColor=00000)&nbsp;
 
 🌫️ Status GitHub:
 <div align="center">  
