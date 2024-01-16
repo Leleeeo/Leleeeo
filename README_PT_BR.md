@@ -10,7 +10,7 @@
 
 🌑 Habilidades:
 
-![Habilidades](https://skills.thijs.gg/icons?i=html,css,nodejs&theme=dark)
+![Habilidades](https://skills.thijs.gg/icons?i=html,css,tailwindcss,nodejs&theme=dark)
 
 🍳 Frameworks:
 
@@ -18,7 +18,7 @@
 
 🎧 Estudando:
 
-![Estudando](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
+![Estudando](https://skills.thijs.gg/icons?i=js,react&theme=dark)
 
 🔨 Ferramentas:
 
