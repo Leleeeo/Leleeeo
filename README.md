@@ -13,7 +13,7 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 🌑 Skills:
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwindcss,nodejs&theme=dark)
 
 🍳 Frameworks:
 
@@ -21,7 +21,7 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 🎧 Studying:
 
-![Studying](https://skills.thijs.gg/icons?i=js,tailwindcss,react&theme=dark)
+![Studying](https://skills.thijs.gg/icons?i=js,react&theme=dark)
 
 🔨 Tools:
 
