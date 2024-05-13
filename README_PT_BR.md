@@ -10,15 +10,19 @@
 
 🌑 Habilidades:
 
-![Habilidades](https://skills.thijs.gg/icons?i=html,css,tailwindcss,nodejs,js&theme=dark)
+![HTML](https://img.shields.io/badge/-html5-FF3030?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
+![CSS](https://img.shields.io/badge/-css3-2384CD?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFE030?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 🍳 Frameworks:
 
-![Frameworks](https://skills.thijs.gg/icons?i=vite,&theme=dark)
+![Vite.js](https://img.shields.io/badge/-vite.js-6F30FF?style=for-the-badge&logo=vite&labelColor=000000)&nbsp;
 
 🎧 Estudando:
 
-![Estudando](https://skills.thijs.gg/icons?i=react&theme=dark)
+![React.js](https://img.shields.io/badge/-React.js-30BAFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-008F16?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
 
 🔨 Ferramentas:
 
