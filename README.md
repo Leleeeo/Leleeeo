@@ -24,8 +24,7 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 🎧 Studying:
 
-![React.js](https://img.shields.io/badge/-React.js-30BAFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-008F16?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
+![Java](https://img.shields.io/badge/Java-000.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 🔨 Tools:
 
