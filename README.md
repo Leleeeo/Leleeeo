@@ -30,7 +30,7 @@ I hope to learn a lot yet and become a **FullStack** programmer.
 
 ![Tools](https://img.shields.io/badge/-VsCode-24adf3?style=for-the-badge&logo=visualstudiocode&labelColor=000000&textColor=00000)&nbsp; 
 ![Tools](https://img.shields.io/badge/-Figma-e6593e?style=for-the-badge&logo=Figma&labelColor=000000&textColor=00000)&nbsp;
-![Tools](https://img.shields.io/badge/-IntelliJIdea-000?style=for-the-badge&logo=IntelliJIdea&labelColor=000000&textColor=00000)&nbsp; 
+![Tools](https://img.shields.io/badge/-IntelliJIdea-723172?style=for-the-badge&logo=IntelliJIdea&labelColor=000000&textColor=00000)&nbsp; 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=120&section=footer"/>
 
